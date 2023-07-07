@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ayrus-369/libaray_devrev/static/css/main.d5f84284.css",
+    "main.js": "/ayrus-369/libaray_devrev/static/js/main.fbec2719.js",
+    "static/media/header.jpg": "/ayrus-369/libaray_devrev/static/media/header.0188f71e05f05a71ed47.jpg",
+    "static/media/cover_not_found.jpg": "/ayrus-369/libaray_devrev/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/logo.png": "/ayrus-369/libaray_devrev/static/media/logo.d01c12a3df3bef27afc2.png",
+    "static/media/about-img.jpg": "/ayrus-369/libaray_devrev/static/media/about-img.b7521da541400a1eefdb.jpg",
+    "index.html": "/ayrus-369/libaray_devrev/index.html",
+    "static/media/loader.svg": "/ayrus-369/libaray_devrev/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.d5f84284.css.map": "/ayrus-369/libaray_devrev/static/css/main.d5f84284.css.map",
+    "main.fbec2719.js.map": "/ayrus-369/libaray_devrev/static/js/main.fbec2719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f84284.css",
+    "static/js/main.fbec2719.js"
+  ]
+}
